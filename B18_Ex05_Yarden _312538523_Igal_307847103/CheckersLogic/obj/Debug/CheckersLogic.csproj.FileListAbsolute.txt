@@ -1,0 +1,6 @@
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\CheckersLogic\obj\Debug\CheckersLogic.csprojAssemblyReference.cache
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\CheckersLogic\obj\Debug\CheckersLogic.pdb

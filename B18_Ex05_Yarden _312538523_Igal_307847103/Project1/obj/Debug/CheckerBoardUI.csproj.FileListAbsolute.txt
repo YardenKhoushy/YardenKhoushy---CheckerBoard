@@ -1,0 +1,13 @@
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\bin\Debug\CheckerBoardUI.exe
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\bin\Debug\CheckerBoardUI.pdb
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\bin\Debug\CheckersLogic.dll
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\bin\Debug\CheckersLogic.pdb
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\obj\Debug\CheckerBoardUI.csprojAssemblyReference.cache
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\obj\Debug\CheckerBoardUI.CheckerBoard.resources
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\obj\Debug\CheckerBoardUI.Properties.Resources.resources
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\obj\Debug\CheckerBoardUI.StartWindow.resources
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\obj\Debug\CheckerBoardUI.csproj.GenerateResource.cache
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\obj\Debug\CheckerBoardUI.csproj.CoreCompileInputs.cache
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\obj\Debug\CheckerBoardUI.csproj.CopyComplete
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\obj\Debug\CheckerBoardUI.exe
+C:\Users\Yarden\Desktop\B18_Ex05_Yarden _312538523_Igal_307847103\Project1\obj\Debug\CheckerBoardUI.pdb
